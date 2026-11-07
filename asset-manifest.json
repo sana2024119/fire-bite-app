@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fire-bite-app/static/css/main.1db4bb7a.css",
+    "main.css": "/fire-bite-app/static/css/main.ffd65bcf.css",
     "main.js": "/fire-bite-app/static/js/main.cbfd923d.js",
     "index.html": "/fire-bite-app/index.html",
-    "main.1db4bb7a.css.map": "/fire-bite-app/static/css/main.1db4bb7a.css.map",
+    "main.ffd65bcf.css.map": "/fire-bite-app/static/css/main.ffd65bcf.css.map",
     "main.cbfd923d.js.map": "/fire-bite-app/static/js/main.cbfd923d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1db4bb7a.css",
+    "static/css/main.ffd65bcf.css",
     "static/js/main.cbfd923d.js"
   ]
 }
