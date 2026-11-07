@@ -56,3 +56,29 @@ Clone the repository:
 ```bash
 git clone https://github.com/sana2024119/fire-bite-app.git
 ```
+
+## Screenshots
+
+### Home Page
+
+![Home Page](src/screenshots/home.png)
+
+### About Page
+
+![About Page](src/screenshots/about.png)
+
+### Menu Page
+
+![Menu Page](src/screenshots/menu.png)
+
+### Contact Page
+
+![Contact Page](src/screenshots/contact.png)
+
+### Cart Page
+
+![Cart Page](src/screenshots/cart.png)
+
+### Orders Page
+
+![Orders Page](src/screenshots/orders.png)
