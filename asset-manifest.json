@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fire-bite-app/static/css/main.1db4bb7a.css",
+    "main.js": "/fire-bite-app/static/js/main.715ab10a.js",
+    "index.html": "/fire-bite-app/index.html",
+    "main.1db4bb7a.css.map": "/fire-bite-app/static/css/main.1db4bb7a.css.map",
+    "main.715ab10a.js.map": "/fire-bite-app/static/js/main.715ab10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db4bb7a.css",
+    "static/js/main.715ab10a.js"
+  ]
+}
