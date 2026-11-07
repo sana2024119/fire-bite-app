@@ -43,7 +43,6 @@ Fire Bite is a responsive restaurant ordering system built with ReactJS. The web
 
 - Home
 - About
-- Features
 - Contact
 - Menu
 - Cart
